@@ -59,7 +59,7 @@ maven中存在三种生命周期
 + default：validate --> compile --> test --> package --> verify --> install --> deploy
 + site
 
-![生命周期各阶段](images\生命周期各阶段.jpg)
+![生命周期各阶段](images/生命周期各阶段.jpg)
 
 
 
@@ -77,7 +77,7 @@ maven中存在三种生命周期
 
   > 下面以打包类型是jar包为例
   >
-  > ![image-20210829182836807](images\jar生命周期和插件的绑定.png)
+  > ![image-20210829182836807](images/jar生命周期和插件的绑定.png)
 
 
 
