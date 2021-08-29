@@ -59,7 +59,7 @@ maven中存在三种生命周期
 + default：validate --> compile --> test --> package --> verify --> install --> deploy
 + site
 
-![生命周期各阶段](D:\learn\kysProject\notes\Maven\images\生命周期各阶段.jpg)
+![生命周期各阶段](images\生命周期各阶段.jpg)
 
 
 
@@ -77,7 +77,7 @@ maven中存在三种生命周期
 
   > 下面以打包类型是jar包为例
   >
-  > ![image-20210829182836807](C:\Users\kelly\AppData\Roaming\Typora\typora-user-images\image-20210829182836807.png)
+  > ![image-20210829182836807](images\jar生命周期和插件的绑定.png)
 
 
 
@@ -561,7 +561,6 @@ pom文件示例（idea搭建的一个简单的web项目）
   [INFO] Finished at: 2021-08-22T23:16:46+08:00
   [INFO] ------------------------------------------------------------------------
   ```
-
 
 
 
